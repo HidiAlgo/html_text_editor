@@ -1,0 +1,46 @@
+img{
+    width: 20px;
+}
+.button div{
+    color: white;
+}
+.design{
+    color: white;
+    border: none;
+    background: none;
+}
+.design:focus{
+    outline: none;
+}
+#bold{
+    font-weight: 900;
+}
+
+#underlined{
+    text-decoration: underline;
+}
+
+#italic{
+    font-style: italic;
+}
+
+#link{
+
+}
+
+#input{
+    height: 70vh;
+}
+
+.button{
+    display: inline-block;
+    height: auto;
+    width: 50px;
+    padding-top: 18px;
+    padding-bottom: 18px; 
+}
+
+.button:hover{
+    background-color:rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
